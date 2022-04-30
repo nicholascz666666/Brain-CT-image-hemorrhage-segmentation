@@ -1,0 +1,19 @@
+model for devision treeaccuracy for testing is 0.45219797110359666
+
+
+
+new
+model for devision treeaccuracy for testing is 0.45122451070806435model for RandomForestClassifier
+
+
+model for RandomForestClassifierperformance 0.62 accuracy with a standard deviation of 0.01performance 0.63 accuracy with a standard deviation of 0.01performance 0.63 accuracy with a standard deviation of 0.01performance 0.63 accuracy with a standard deviation of 0.00
+
+
+
+
+
+model for RandomForestClassifierperformance 0.63 accuracy with a standard deviation of 0.01performance 0.63 accuracy with a standard deviation of 0.00performance 0.63 accuracy with a standard deviation of 0.01performance 0.63 accuracy with a standard deviation of 0.01
+
+
+
+model for RandomForestClassifierperformance 0.63 accuracy with a standard deviation of 0.01performance 0.63 accuracy with a standard deviation of 0.01performance 0.63 accuracy with a standard deviation of 0.00performance 0.63 accuracy with a standard deviation of 0.01{'accuracy_score': [0.6315, 0.6365, 0.6345, 0.6325], 'f1_score': [], 'roc_auc_score': []}model for AdaBoostClassifierperformance 0.45 accuracy with a standard deviation of 0.19performance 0.44 accuracy with a standard deviation of 0.19performance 0.45 accuracy with a standard deviation of 0.19performance 0.44 accuracy with a standard deviation of 0.19{'accuracy_score': [0.6365, 0.65, 0.65, 0.6535], 'f1_score': [], 'roc_auc_score': []}
